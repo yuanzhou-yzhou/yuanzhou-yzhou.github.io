@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
+* M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
+* Ph.D in Computer Science, Nanyang Technollgical University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* May 2015--Jul 2019: Research Assistant
+  * Nanyang Technollgical University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Yang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
+* Aug 2019--Present: Research Fellow
+  * Nanyang Technollgical University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Yang Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -56,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently served as reviewer for many journals and coferences.
