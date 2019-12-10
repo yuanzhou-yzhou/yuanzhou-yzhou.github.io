@@ -48,8 +48,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Services
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.services %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Awards
+======
+  <ul>{% for post in site.awards %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

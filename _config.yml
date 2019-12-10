@@ -187,7 +187,7 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-  rewards:
+  awards:
     output: true
     permalink: /:collection/:path/   
   information:
