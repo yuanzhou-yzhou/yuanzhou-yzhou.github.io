@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuan Zhou's Homepage"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Yuan Zhou's Homepage.
-
-About Me
-======
 I'm currently a research fellow at Nanyang Technolgoical University with Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/). 
 I obtained his Ph.D. degree in 2019 from Nanyang Technological University, Singapore, under supervision of Profs. [Hesuan Hu](https://web.xidian.edu.cn/hshu/), [Yang Liu](https://www.ntu.edu.sg/home/yangliu/), and [Shang-Wei Lin](https://www.ntu.edu.sg/home/shang-wei.lin/); 
 and Master degree in 2015 from Zhejiang Sci-Tech Universitory, Hangzhou, China, under supervision of Prof. Zuohua Ding.
