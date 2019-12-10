@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuan Zhou"
   avatar           : "profile.png"
-  bio              : "Research Fellow, NTU, Singapore"
-  location         : "NTU, Singapore"
+  bio              : "Research Fellow at Nanyang Technological University"
+  location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ"
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  dblp             : "https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan"
   vine             :
   weibo            :
   xing             :
   youtube          :
+  dblp             : "https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan"
   wikipedia        :
 
 

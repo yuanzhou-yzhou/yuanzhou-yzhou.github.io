@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,16 +13,18 @@ Education
 ======
 * B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
 * M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
-* Ph.D in Computer Science, Nanyang Technollgical University, 2019
+  * Thesis: [Modeling and Verification of Self-adaptive Software Systems](http://yuanzhou-yzhou.github.io/files/master-thesis.pdf)
+* Ph.D in Computer Science, Nanyang Technological University, 2019
+  * Thesis: [Distributed Approaches to Motion Planning and Control in Multi-Robot Systems](http://yuanzhou-yzhou.github.io/files/phd-thesis.pdf)
 
 Work experience
 ======
-* May 2015--Jul 2019: Research Assistant
+* May 2015 -- Jul 2019: Research Assistant
   * Nanyang Technollgical University
   * Duties included: Doing research on motion control for multi-robot systems.
   * Supervisor: Professor Yang Liu
 
-* Aug 2019--Present: Research Fellow
+* Aug 2019 -- Present: Research Fellow
   * Nanyang Technollgical University
   * Duties included: Conduting research on robust motion control for mobile robots
   * Supervisor: Professor Yang Liu
@@ -48,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently served as reviewer for many journals and coferences.
+* Currently served as reviewers for many journals and coferences.
