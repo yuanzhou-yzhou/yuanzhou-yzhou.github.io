@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research fellow at Nanyang Technolgoical University with Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/). 
+I'm currently the Research Scholarship Block Postdoctoral Fellow (RSB-PDF) at Nanyang Technolgoical University with Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/). 
 I obtained my Ph.D. degree at 2019 from Nanyang Technological University, Singapore, under the supervision of Profs. [Hesuan Hu](https://web.xidian.edu.cn/hshu/), [Yang Liu](https://www.ntu.edu.sg/home/yangliu/), and [Shang-Wei Lin](https://www.ntu.edu.sg/home/shang-wei.lin/), and
 the Master degree at 2015 from Zhejiang Sci-Tech Universitory, Hangzhou, China, under the supervision of Prof. Zuohua Ding.
 
