@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yuan Zhou"
+title                    : "Dr. Yuan Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Yuan Zhou"
 description              : &description "Research Fellow at Nangyang Technolgoical University"
