@@ -22,14 +22,14 @@ Education
 Work experience
 ======
 * May 2015 -- Jul 2019: Research Assistant
-  * Nanyang Technollgical University
+  * Nanyang Technological University
   * Duties included: Conducting research on motion control for multi-robot systems.
-  * Supervisor: Professor Yang Liu
+  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
 
 * Aug 2019 -- Present: Research Fellow
-  * Nanyang Technollgical University
+  * Nanyang Technological University
   * Duties included: Conduting research on motion control for mobile robots
-  * Supervisor: Professor Yang Liu
+  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
 
 
 Publications
