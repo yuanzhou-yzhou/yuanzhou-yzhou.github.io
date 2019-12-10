@@ -233,14 +233,33 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _services
   - scope:
       path: ""
-      type: talks
+      type: services
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _information
+  - scope:
+      path: ""
+      type: information
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
