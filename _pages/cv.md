@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Click Here for the PDF File](http://yuanzhou-yzhou.github.io/files/CV-Zhou.pdf)
+
 {% include base_path %}
 
 Education
