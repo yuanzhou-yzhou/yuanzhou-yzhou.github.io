@@ -4,19 +4,17 @@ main:
     url: /cv/
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "Rewards"
-    url: /rewards/  
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Services"
     url: /service/
+
+  - title: "Rewards"
+    url: /rewards/ 
   
-  - titile: "Useful Information" 
+  - titile: "Information" 
     url: /information/ 
 
-#- title: "Guide"
-#  url: /markdown/

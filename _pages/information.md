@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful Information"
+title: "Information"
 permalink: /information/
 author_profile: true
 ---

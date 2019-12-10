@@ -184,9 +184,15 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  services:
     output: true
     permalink: /:collection/:path/
+  rewards:
+    output: true
+    permalink: /:collection/:path/   
+  information:
+    output: true
+    permalink: /:collection/:path/ 
 
 
 # Defaults
