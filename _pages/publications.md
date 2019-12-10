@@ -11,7 +11,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 **Journal Papers**
 ======
 
-   *<u>Distributed Robot Motion Control</u>*
+*<u>Distributed Robot Motion Control</u>*
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
 
@@ -23,7 +23,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. <span style="color:blue">周远</span>，胡核算，刘杨，林尚威， "**[分布式多机器人运动控制的离散事件系统方法](http://jcta.alljournals.ac.cn/CTA_CN/ch/reader/create_pdf.aspx?file_no=CCTA160918&flag=1&journal_id=CTA_CN&year_id=2018)**." 《控制理论与应用》，vol. 35, no. 1, pp. 110-120, 2018.
 
-   *<u>System Modeling and Analyzing</u>*
+*<u>System Modeling and Analyzing</u>*
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and Mengchu Zhou, "**[Modeling self-adaptive software systems by fuzzy rules and Petri nets](https://ieeexplore.ieee.org/abstract/document/7917321)**." In *IEEE Transactions on Fuzzy Systems*, vol. 26, no. 2, pp. 967-984, 2018. (IF: 8.759, Q1)
 
@@ -35,7 +35,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Stability analysis of switched fuzzy systems via model checking](https://ieeexplore.ieee.org/abstract/document/6698303)**." In *IEEE Transactions on Fuzzy Systems*, vol. 22, no. 6, pp. 1503-1514, Dec. 2014. (IF: 8.746, Q1)
 
-   *<u>Software Reliability</u>*
+*<u>Software Reliability</u>*
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Geguang Pu, and Mengchu Zhou, "**[Online failure prediction for railway transportation systems based on Fuzzy rules and data analysis](https://ieeexplore.ieee.org/abstract/document/8357501)**." In *IEEE Transactions on Reliability*, vol. 67, no. 3, pp. 1143-1158, 2018. (IF: 2.888, Q1)
 
@@ -45,7 +45,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. 杨晓燕，周远，丁佐华，"**[基于在线故障定位及自主适应提高软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4761&flag=1)**.", 《软件学报》， vol. 26, no. 4, pp. 886-903, 2015.
 
-   *<u>Other</u>*
+*<u>Others</u>*
 
 1. Jipeng Wang, Chunrong Pan, Hesuan Hu, Liang Li, and <span style="color:blue">Yuan Zhou</span>, "**[A cyclic scheduling approach to single-arm cluster tools with multiple wafer types and residency time constraints](https://ieeexplore.ieee.org/abstract/document/8543218)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 16, no, 3, pp. 1373-1386, 2019. (IF: 5.224, Q1)
 
@@ -57,7 +57,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 **Conference Papers**
 ======
 
-	*<u>Supervisory Control for Automated Manufacturing Systems</u>*
+   *<u>Supervisory Control for Automated Manufacturing Systems</u>*
 
 1. Junyao Hou, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Decentralized supervisory control of generalized mutual exclusion constraints in Petri nets](https://ieeexplore.ieee.org/abstract/document/8256129)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 358-363.
 
@@ -68,7 +68,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. Jipeng Wang, Chunrong Pan, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, “**[Scheduling of single-arm cluster tools with multi-type wafers and shared PMs](https://ieeexplore.ieee.org/abstract/document/8256242)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 1046-1051.
 
-	*<u>System Modeling and Analyzing</u>*
+   *<u>System Modeling and Analyzing</u>*
 
 1. Mingyue Jiang, Zuohua Ding, MengChu Zhou, <span style="color:blue">Yuan Zhou</span>, “**[Formal modeling and verification of secure mobile agent systems](https://ieeexplore.ieee.org/abstract/document/7294136)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2015: 545-550.
 
