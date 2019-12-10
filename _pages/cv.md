@@ -34,7 +34,7 @@ Work experience
 
 Publications
 ======
-  The full list of publications is shown in [Google Scholar](https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan).
+  The completed list of publications is also given in [Google Scholar](https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan).
   
 Teaching
 ======
