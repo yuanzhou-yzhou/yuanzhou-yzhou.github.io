@@ -21,12 +21,12 @@ Work experience
 ======
 * May 2015 -- Jul 2019: Research Assistant
   * Nanyang Technollgical University
-  * Duties included: Doing research on motion control for multi-robot systems.
+  * Duties included: Conducting research on motion control for multi-robot systems.
   * Supervisor: Professor Yang Liu
 
 * Aug 2019 -- Present: Research Fellow
   * Nanyang Technollgical University
-  * Duties included: Conduting research on robust motion control for mobile robots
+  * Duties included: Conduting research on motion control for mobile robots
   * Supervisor: Professor Yang Liu
 
 
