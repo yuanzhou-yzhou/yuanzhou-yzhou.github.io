@@ -13,9 +13,9 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
 
-1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed approach to robust control of multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109818304217)**." In *Automatica*, vol. 99, pp. 1-13, 2020. (IF: 6.355, Q1)
-
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A real-time and fully distributed approach to motion planning for multirobot systems](https://ieeexplore.ieee.org/abstract/document/8055437)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 49, no. 12 , pp. 2636-2650, 2019. (IF: 5.135, Q1)
+
+1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed approach to robust control of multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109818304217)**." In *Automatica*, vol. 99, pp. 1-13, 2018. (IF: 6.355, Q1)
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, and Zuohua Ding. “**[Collision and deadlock avoidance in multirobot systems: A distributed approach](https://ieeexplore.ieee.org/abstract/document/7875176)**.” In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 47, no. 7, pp. 1712–1726, 2017. (IF: 5.135, Q1)
 
