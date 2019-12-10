@@ -32,24 +32,24 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  The full list of publications is shown in [Google Scholar](https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   
 Services
 ======
-  <ul>{% for post in site.services %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Service as a reviewer for:
+ * IEEE Transactions on Systems, Man, Cybernetics: Systems
+ * IEEE Transactions on Intelligent Transportation Systems
+ * IEEE Transactions on Automation Science and Engineering
+ * IEEE Robotics and Automation Magazine
+ * IEEE Transactions on Neural Networks and Learning Systems
+ * IEEE Conference on Decision and Control (CDC)
+ * IEEE International Conference on Robotics and Automation (ICRA)
+ * IEEE International Conference on Automation Science and Engineering (CASE)
 
 Awards
 ======
-  <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* RSB Postdoctoral Fellow, NTU, 2019
