@@ -37,6 +37,14 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. Jipeng Wang, Chunrong Pan, Hesuan Hu, Liang Li, and <span style="color:blue">Yuan Zhou</span>, "**[A cyclic scheduling approach to single-arm cluster tools with multiple wafer types and residency time constraints](https://ieeexplore.ieee.org/abstract/document/8543218)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 16, no, 3, pp. 1373-1386, 2019. (IF: 5.224, Q1)
 
+1. 周远,丁佐华，"**[基于程序不变量计算软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4803&flag=1)**.", 《软件学报》， vol. 26, no. 12, pp. 3075-3087, 2015.
+
+
+1. 杨晓燕,周远,丁佐华，"**[基于在线故障定位及自主适应提高软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4761&flag=1)**.", 《软件学报》， vol. 26, no. 4, pp. 886-903, 2015.
+
+1. 周远，徐映红，徐定华， "**[结合粒子群算法的一类双层纺织材料厚度设计反问题](http://www.fzxb.org.cn/CN/Y2013/V34/I6/40)**", 《纺织学报》，vol. 34, no. 6, pp. 40-45, 2013.
+
+
 
 
 **Conference Papers**
