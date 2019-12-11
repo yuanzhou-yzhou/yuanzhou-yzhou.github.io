@@ -16,7 +16,7 @@ Education
 * B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
 * M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
   * Thesis: [Modeling and Verification of Self-adaptive Software Systems](http://yuanzhou-yzhou.github.io/files/master-thesis.pdf)
-* Ph.D in Computer Science, Nanyang Technological University, 2019
+* Ph.D. in Computer Science, Nanyang Technological University, 2019
   * Thesis: [Distributed Approaches to Motion Planning and Control in Multi-Robot Systems](http://yuanzhou-yzhou.github.io/files/phd-thesis.pdf)
 
 Work Experience
