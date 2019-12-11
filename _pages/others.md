@@ -20,7 +20,6 @@ Important Journals
 - ...
 
 
-
 Important Conferences
 ======
 - International Conference on Robotics and Automation (ICRA)
