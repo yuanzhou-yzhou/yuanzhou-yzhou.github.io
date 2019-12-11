@@ -36,7 +36,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Stability analysis of switched fuzzy systems via model checking](https://ieeexplore.ieee.org/abstract/document/6698303)**." In *IEEE Transactions on Fuzzy Systems*, vol. 22, no. 6, pp. 1503-1514, Dec. 2014. (IF: 8.746, Q1)
 
-   *<u>Software Reliability</u>*
+   *<u>System Reliability</u>*
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Geguang Pu, and Mengchu Zhou, "**[Online failure prediction for railway transportation systems based on Fuzzy rules and data analysis](https://ieeexplore.ieee.org/abstract/document/8357501)**." In *IEEE Transactions on Reliability*, vol. 67, no. 3, pp. 1143-1158, 2018. (IF: 2.888, Q1)
 
