@@ -58,7 +58,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 **Conference Papers**
 ======
 
-   *<u>Supervisory Control for Automated Manufacturing Systems</u>*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*<u>Supervisory Control for Automated Manufacturing Systems</u>*
 
 1. Junyao Hou, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Decentralized supervisory control of generalized mutual exclusion constraints in Petri nets](https://ieeexplore.ieee.org/abstract/document/8256129)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 358-363.
 
