@@ -7,7 +7,7 @@ author_profile: true
 
 Under Update
 
-Important Journals
+Related Journals
 ======
 - [IEEE Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 - [The International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
@@ -20,7 +20,7 @@ Important Journals
 - ...
 
 
-Important Conferences
+Related Conferences
 ======
 - International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
