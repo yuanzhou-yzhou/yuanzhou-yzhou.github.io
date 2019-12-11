@@ -5,8 +5,6 @@ permalink: /others/
 author_profile: true
 ---
 
-Under Update
-
 Related Journals
 ======
 - [IEEE Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
