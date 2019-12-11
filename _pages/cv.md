@@ -19,7 +19,7 @@ Education
 * Ph.D in Computer Science, Nanyang Technological University, 2019
   * Thesis: [Distributed Approaches to Motion Planning and Control in Multi-Robot Systems](http://yuanzhou-yzhou.github.io/files/phd-thesis.pdf)
 
-Work experience
+Work Experience
 ======
 * May 2015 -- Jul 2019: Research Assistant
   * Nanyang Technological University
@@ -42,7 +42,7 @@ To appear.
   
 Services
 ======
-Service as a reviewer for:
+Serve as a reviewer for:
  * IEEE Transactions on Systems, Man, Cybernetics: Systems
  * IEEE Transactions on Intelligent Transportation Systems
  * IEEE Transactions on Automation Science and Engineering
@@ -54,4 +54,4 @@ Service as a reviewer for:
 
 Awards
 ======
-* RSB Postdoctoral Fellow, NTU, 2019
+* RSB Postdoctoral Fellow, NTU, July 2019
