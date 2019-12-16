@@ -27,7 +27,7 @@ My research intertests focus on different topics related to motion control of mo
 <!-- Due to its open and complex environments, a multi-robot system may suffer from conflicts among different motion requirements. Hence, a multi-robot system needs to adapte its requiremnts during its motion. We focuse on the following tasks along this direction: (1) Deep understanding of different reqirements (e.g., safety, security, performance, privacy, ethic, regulations) for a multi-robot systems; (2) Detection of conflict requirements during robot motion; and (3) Self-adaptation for conflict requirements. -->
 
 - **Autonomous vehicles security**.
-<!--Current autonomous vehicles are equipped numerous sensors to guarantee their safety, which bring broad attack surface. How to design a secure architecture for autonomous vehicles become critical. Focusing on the control softeware systems of autonomous vehicles, we apply isolation and self-adaptation technolgoies to design secure architectures. --?
+<!--Current autonomous vehicles are equipped numerous sensors to guarantee their safety, which bring broad attack surface. How to design a secure architecture for autonomous vehicles become critical. Focusing on the control softeware systems of autonomous vehicles, we apply isolation and self-adaptation technolgoies to design secure architectures. -->
 
 
 Contact
