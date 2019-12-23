@@ -32,10 +32,8 @@ My research intertests focus on different topics related to motion control of mo
 
 Contact
 ======
-*Address*: N4-B2C-06, Cyber Security Lab, \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-School of Computer Science and Engineering, Nanyang Technological University\\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Address*: N4-B2C-06, Cyber Security Lab, 
+School of Computer Science and Engineering, Nanyang Technological University,
 50 Nanyang Avenue, Singapore 639798
 
 *Email*: y.zhou AT ntu DOT edu DOT sg
