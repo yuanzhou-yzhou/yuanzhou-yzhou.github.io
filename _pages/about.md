@@ -23,7 +23,7 @@ My research intertests focus on different topics related to motion control of mo
 - **AI aided motion control**. 
 <!--In case of obstacle-clussted and/or dynamic environemnt, real-time motion planning is usually time-consuming. AI technologies leverage an offline learning procedure to offload the online computation. However, its predictability and  interpretability is still a challenge, so we cannot apply AI technologies directly to control safety-critical systems. Hence, it is significant to investigate how to apply AI technologies to aid the computation of traditional motion algorithms. Detailded, we are exploring how to use AI technologies to guide online computation of traditional motion methods.-->
 
-- **Self-adaptive software systems for multi-robot systems**.
+- **Self-adaptive software systems for autonomous systems**.
 <!-- Due to its open and complex environments, a multi-robot system may suffer from conflicts among different motion requirements. Hence, a multi-robot system needs to adapte its requiremnts during its motion. We focuse on the following tasks along this direction: (1) Deep understanding of different reqirements (e.g., safety, security, performance, privacy, ethic, regulations) for a multi-robot systems; (2) Detection of conflict requirements during robot motion; and (3) Self-adaptation for conflict requirements. -->
 
 - **Autonomous vehicles security**.
