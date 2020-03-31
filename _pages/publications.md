@@ -12,7 +12,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Distributed Robot Motion Control</u>*
+*<u>Robotics</u>*
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
 
@@ -28,19 +28,17 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and Mengchu Zhou, "**[Modeling self-adaptive software systems by fuzzy rules and Petri nets](https://ieeexplore.ieee.org/abstract/document/7917321)**." In *IEEE Transactions on Fuzzy Systems*, vol. 26, no. 2, pp. 967-984, 2018. (IF: 8.759, Q1)
 
+1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Geguang Pu, and Mengchu Zhou, "**[Online failure prediction for railway transportation systems based on Fuzzy rules and data analysis](https://ieeexplore.ieee.org/abstract/document/8357501)**." In *IEEE Transactions on Reliability*, vol. 67, no. 3, pp. 1143-1158, 2018. (IF: 2.888, Q1)
+
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Modeling self-adaptive software systems with learning Petri nets](https://ieeexplore.ieee.org/abstract/document/7115165)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 46, no. 4, pp. 483–498, 2016. (IF: 2.35, Q2)
+
+1. Zuohua Ding, Ting Xu, Tiantian Ye, and <span style="color:blue">Yuan Zhou</span>, “**[Online prediction and improvement of reliability for service oriented systems](https://ieeexplore.ieee.org/abstract/document/7361770/)**.” In *IEEE Transactions on Reliability*, vol. 65, no. 3, pp. 1133–1148, 2016. (IF: 2.79, Q1)
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Mingyue Jiang, and MengChu Zhou, “**[A new class of Petri nets for modeling and property verification of switched stochastic systems](https://ieeexplore.ieee.org/abstract/document/6995961/)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 45, no. 7, pp. 1087–1100, 2015. (IF: 1.598, Q2)
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[A polynomial algorithm to performance analysis of concurrent systems via Petri nets and ordinary differential equations](https://ieeexplore.ieee.org/abstract/document/6684591)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 12, no. 1, pp. 295–308, 2015. (IF: 2.696, Q1)
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Stability analysis of switched fuzzy systems via model checking](https://ieeexplore.ieee.org/abstract/document/6698303)**." In *IEEE Transactions on Fuzzy Systems*, vol. 22, no. 6, pp. 1503-1514, Dec. 2014. (IF: 8.746, Q1)
-
-   *<u>System Reliability</u>*
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Geguang Pu, and Mengchu Zhou, "**[Online failure prediction for railway transportation systems based on Fuzzy rules and data analysis](https://ieeexplore.ieee.org/abstract/document/8357501)**." In *IEEE Transactions on Reliability*, vol. 67, no. 3, pp. 1143-1158, 2018. (IF: 2.888, Q1)
-
-1. Zuohua Ding, Ting Xu, Tiantian Ye, and <span style="color:blue">Yuan Zhou</span>, “**[Online prediction and improvement of reliability for service oriented systems](https://ieeexplore.ieee.org/abstract/document/7361770/)**.” In *IEEE Transactions on Reliability*, vol. 65, no. 3, pp. 1133–1148, 2016. (IF: 2.79, Q1)
 
 1. <span style="color:blue">周远</span>，丁佐华，"**[基于程序不变量计算软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4803&flag=1)**.", 《软件学报》， vol. 26, no. 12, pp. 3075-3087, 2015.
 
