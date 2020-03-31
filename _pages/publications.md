@@ -59,10 +59,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics</u>*
 
-1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**[Privacy-Aware UAV Flights through Self-Configuring Motion Planning]**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
+1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Privacy-Aware UAV Flights through Self-Configuring Motion Planning**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Supervisory Control for Automated Manufacturing Systems</u>*
 
 1. Junyao Hou, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Decentralized supervisory control of generalized mutual exclusion constraints in Petri nets](https://ieeexplore.ieee.org/abstract/document/8256129)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 358-363.
