@@ -69,11 +69,11 @@ Name marked with * implies that I am the corresponding author.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
-1. Gelei Deng, <span style="color:blue">Yuan Zhou*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**An Investigation of Byzantine Threats in Multi-Robot Systems**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
+1. Gelei Deng, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**An Investigation of Byzantine Threats in Multi-Robot Systems**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
 
-1. Yun Tang, <span style="color:blue">Yuan Zhou*</span>, Yang Liu, Jun Sun, and Gang Wang,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
+1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
 
-1. Yun Tang, <span style="color:blue">Yuan Zhou*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**Route Coverage Testing for Autonomous Vehicles via Map Modeling**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
+1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**Route Coverage Testing for Autonomous Vehicles via Map Modeling**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
 
 1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Privacy-Aware UAV Flights through Self-Configuring Motion Planning**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
 
