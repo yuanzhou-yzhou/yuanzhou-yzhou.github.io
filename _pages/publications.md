@@ -16,7 +16,7 @@ Name marked with * implies that I am the corresponding author.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
-1. Kun Cheng, <span style="color:blue">Yuan Zhou*</span, Bihuan Chen, Rui Wang, Yuebin Bai, Yang Liu, "**[Guardauto: A Decentralized Runtime Protection System for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9172045)**." In *IEEE Transactions on Computers*, 2020. (IF: 2.663, Q2)
+1. Kun Cheng, <span style="color:blue">Yuan Zhou*</span>, Bihuan Chen, Rui Wang, Yuebin Bai, Yang Liu, "**[Guardauto: A Decentralized Runtime Protection System for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9172045)**." In *IEEE Transactions on Computers*, 2020. (IF: 2.663, Q2)
 
 1.  Kun Cheng, Yuebin Bai, <span style="color:blue">Yuan Zhou*</span>, Yun Tang, David Sanan, Yang Liu, "**[CANeleon: Protecting CAN Bus With Frame ID Chameleon](https://ieeexplore.ieee.org/abstract/document/9079183)**." In *IEEE Transactions on Vehicular Technology*, vol. 69, no. 7, pp. 7116-7130, 2020. (IF: 5.978, Q1)
 
