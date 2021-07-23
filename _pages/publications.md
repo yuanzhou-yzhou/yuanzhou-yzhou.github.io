@@ -50,9 +50,13 @@ Name marked with * implies that I am the corresponding author.
 
 1. 杨晓燕，<span style="color:blue">周远</span>，丁佐华，"**[基于在线故障定位及自主适应提高软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4761&flag=1)**.", 《软件学报》， vol. 26, no. 4, pp. 886-903, 2015.
 
-   *<u>Others</u>*
+   *<u>Automated Manufacturing Systems</u>*
+
+1. Jipeng Wang, Hesuan Hu, Chunrong Pan, <span style="color:blue">Yuan Zhou</span>, and Liang Li, "**[Scheduling dual-arm cluster tools with multiple wafer types and residency time constraints](https://ieeexplore.ieee.org/abstract/document/9080619)**." In *IEEE/CAA Journal of Automatica Sinica*, vol. 7, no, 3, pp. 776-789, 2020. (IF: 6.171, Q1)
 
 1. Jipeng Wang, Chunrong Pan, Hesuan Hu, Liang Li, and <span style="color:blue">Yuan Zhou</span>, "**[A cyclic scheduling approach to single-arm cluster tools with multiple wafer types and residency time constraints](https://ieeexplore.ieee.org/abstract/document/8543218)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 16, no, 3, pp. 1373-1386, 2019. (IF: 5.224, Q1)
+
+*<u>Others</u>*
 
 1. <span style="color:blue">周远</span>，徐映红，徐定华，"**[结合粒子群算法的一类双层纺织材料厚度设计反问题](http://www.fzxb.org.cn/CN/Y2013/V34/I6/40)**", 《纺织学报》，vol. 34, no. 6, pp. 40-45, 2013.
 
@@ -73,7 +77,7 @@ Name marked with * implies that I am the corresponding author.
 
 1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Privacy-Aware UAV Flights through Self-Configuring Motion Planning**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
 
-    *<u>Supervisory Control for Automated Manufacturing Systems</u>*
+    *<u>Automated Manufacturing Systems</u>*
 
 1. Junyao Hou, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Decentralized supervisory control of generalized mutual exclusion constraints in Petri nets](https://ieeexplore.ieee.org/abstract/document/8256129)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 358-363.
 
