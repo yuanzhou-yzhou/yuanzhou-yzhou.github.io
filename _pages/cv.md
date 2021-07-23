@@ -13,31 +13,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
-* M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
-  * Thesis: [Modeling and Verification of Self-adaptive Software Systems](http://yuanzhou-yzhou.github.io/files/master-thesis.pdf)
+
 * Ph.D. in Computer Science, Nanyang Technological University, 2019
   * Thesis: [Distributed Approaches to Motion Planning and Control in Multi-Robot Systems](http://yuanzhou-yzhou.github.io/files/phd-thesis.pdf)
 
+* M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
+  * Thesis: [Modeling and Verification of Self-adaptive Software Systems](http://yuanzhou-yzhou.github.io/files/master-thesis.pdf)
+
+* B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
+
+
+
 Work Experience
 ======
-* Feb 2021 -- Present: Research Fellow
-  * Nanyang Technological University
+* Feb 2021 -- Present: Research Fellow, Nanyang Technological University
   <!---* Duties included: Conducting research on safety and security of multi-robot systems and autonomous vehicles.
   * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
 
-* Jul 2020 -- Feb 2021: Research Fellow
-  * Singapore Management University
+* Jul 2020 -- Feb 2021: Research Fellow, Singapore Management University
   <!---* Duties included: Conducting research on autonomous driving system testing.
   * Supervisor: Prof. [Jun Sun](https://www.ntu.edu.sg/home/yangliu/)--->
 
-* Aug 2019 -- Jun 2020: Research Fellow
-  * Nanyang Technological University
+* Aug 2019 -- Jun 2020: Research Fellow, Nanyang Technological University
   <!---* Duties included: Conduting research on motion control for mobile robots
   * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
 
-* May 2015 -- Jul 2019: Research Assistant
-  * Nanyang Technological University
+* May 2015 -- Jul 2019: Research Assistant, Nanyang Technological University
   <!---* Duties included: Conducting research on motion control for multi-robot systems.
   * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
 
