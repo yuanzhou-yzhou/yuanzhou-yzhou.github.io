@@ -14,7 +14,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
-1.  Kun Cheng, Yuebin Bai, <span style="color:blue">Yuan Zhou</span>, Yun Tang, David Sanan, Yang Liu, "**[CANeleon: Protecting CAN Bus With Frame ID Chameleon](https://ieeexplore.ieee.org/abstract/document/9079183)**." In *IEEE Transactions on Vehicular Technology*, vol. 69, no. 7, pp. 7116-7130, 2020. (IF: 5.978, Q1)
+1.  Kun Cheng, Yuebin Bai, <span style="color:blue">Yuan Zhou^*</span>, Yun Tang, David Sanan, Yang Liu, "**[CANeleon: Protecting CAN Bus With Frame ID Chameleon](https://ieeexplore.ieee.org/abstract/document/9079183)**." In *IEEE Transactions on Vehicular Technology*, vol. 69, no. 7, pp. 7116-7130, 2020. (IF: 5.978, Q1)
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
 
