@@ -16,6 +16,8 @@ Name marked with * implies that I am the corresponding author.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
+1. Kun Cheng, <span style="color:blue">Yuan Zhou*</span, Bihuan Chen, Rui Wang, Yuebin Bai, Yang Liu, "**[Guardauto: A Decentralized Runtime Protection System for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9172045)**." In *IEEE Transactions on Computers*, 2020. (IF: 2.663, Q2)
+
 1.  Kun Cheng, Yuebin Bai, <span style="color:blue">Yuan Zhou*</span>, Yun Tang, David Sanan, Yang Liu, "**[CANeleon: Protecting CAN Bus With Frame ID Chameleon](https://ieeexplore.ieee.org/abstract/document/9079183)**." In *IEEE Transactions on Vehicular Technology*, vol. 69, no. 7, pp. 7116-7130, 2020. (IF: 5.978, Q1)
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
@@ -62,6 +64,12 @@ Name marked with * implies that I am the corresponding author.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
+
+1. Gelei Deng, <span style="color:blue">Yuan Zhou*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**An Investigation of Byzantine Threats in Multi-Robot Systems**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
+
+1. Yun Tang, <span style="color:blue">Yuan Zhou*</span>, Yang Liu, Jun Sun, and Gang Wang,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
+
+1. Yun Tang, <span style="color:blue">Yuan Zhou*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**Route Coverage Testing for Autonomous Vehicles via Map Modeling**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
 
 1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Privacy-Aware UAV Flights through Self-Configuring Motion Planning**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
 
