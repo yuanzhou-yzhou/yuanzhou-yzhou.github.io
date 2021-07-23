@@ -21,15 +21,25 @@ Education
 
 Work Experience
 ======
+* Feb 2021 -- Present: Research Fellow
+  * Nanyang Technological University
+  <!---* Duties included: Conducting research on safety and security of multi-robot systems and autonomous vehicles.
+  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
+
+* Jul 2020 -- Feb 2021: Research Fellow
+  * Singapore Management University
+  <!---* Duties included: Conducting research on autonomous driving system testing.
+  * Supervisor: Prof. [Jun Sun](https://www.ntu.edu.sg/home/yangliu/)--->
+
+* Aug 2019 -- Jun 2020: Research Fellow
+  * Nanyang Technological University
+  <!---* Duties included: Conduting research on motion control for mobile robots
+  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
+
 * May 2015 -- Jul 2019: Research Assistant
   * Nanyang Technological University
-  * Duties included: Conducting research on motion control for multi-robot systems.
-  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
-
-* Aug 2019 -- Present: Research Fellow
-  * Nanyang Technological University
-  * Duties included: Conduting research on motion control for mobile robots
-  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
+  <!---* Duties included: Conducting research on motion control for multi-robot systems.
+  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)--->
 
 
 Publications
