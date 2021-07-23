@@ -94,3 +94,9 @@ Name marked with * implies that I am the corresponding author.
 
 1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, MengChu Zhou, “**[Modeling self-adaptive software systems with learning Petri nets](https://dl.acm.org/citation.cfm?id=2591113)**.” *Companion Proceedings of the 36th International Conference on Software Engineering (ICSE Companion)*, 2014: 464-467.
 
+
+**PhD Thesis**
+======
+Yuan Zhou, "**[Distributed approaches to motion planning and control in multi-robot systems](https://doi.org/10.32657/10220/48184)**", PhD Thesis, Nanyang Technological University, 2019.
+
+
