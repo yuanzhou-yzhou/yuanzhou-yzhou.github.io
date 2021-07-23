@@ -75,7 +75,7 @@ Name marked with * implies that I am the corresponding author.
 
 1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**Route Coverage Testing for Autonomous Vehicles via Map Modeling**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
 
-1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**Privacy-Aware UAV Flights through Self-Configuring Motion Planning**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020.
+1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**[Privacy-Aware UAV Flights through Self-Configuring Motion Planning](https://ieeexplore.ieee.org/abstract/document/9197564)**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020: 1169-1175.
 
     *<u>Automated Manufacturing Systems</u>*
 
