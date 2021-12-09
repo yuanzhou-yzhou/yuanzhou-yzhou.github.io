@@ -71,6 +71,8 @@ Name marked with * implies that I am the corresponding author.
 
 1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu", **[Criticality-Guided Deep Reinforcement Learning for Motion Planning](https://yuanzhou-yzhou.github.io/files/DRL_for_motion_planning.pdf)**." In *2021 China Automation Congress (CAC 2021)*, 2021
 
+1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Tianwei Zhang, Fenghua Wu, Yang Liu, Gang Wang, "**Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification.**" In *IEEE/ACM International Conference on Automated Software Engineering New Ideas and Emerging Results (ASE-NIER 2021)*, 2021.
+
 1. Gelei Deng, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**[An Investigation of Byzantine Threats in Multi-Robot Systems](https://personal.ntu.edu.sg/tianwei.zhang/paper/raid2021-1.pdf)**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
 
 1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**[Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps](https://ieeexplore.ieee.org/document/9575536)**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
