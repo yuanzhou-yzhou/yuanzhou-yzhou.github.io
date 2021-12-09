@@ -69,6 +69,8 @@ Name marked with * implies that I am the corresponding author.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
+1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu"**Criticality-Guided Deep Reinforcement Learning for Motion Planning**." In *2021 China Automation Congress (CAC 2021)*, 2021
+
 1. Gelei Deng, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**An Investigation of Byzantine Threats in Multi-Robot Systems**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
 
 1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
