@@ -69,13 +69,13 @@ Name marked with * implies that I am the corresponding author.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *<u>Robotics and Autonomous Vehicles</u>*
 
-1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu"**[Criticality-Guided Deep Reinforcement Learning for Motion Planning](https://yuanzhou-yzhou.github.io/files/DRL_for_motion_planning.pdf)**." In *2021 China Automation Congress (CAC 2021)*, 2021
+1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu", **[Criticality-Guided Deep Reinforcement Learning for Motion Planning](https://yuanzhou-yzhou.github.io/files/DRL_for_motion_planning.pdf)**." In *2021 China Automation Congress (CAC 2021)*, 2021
 
 1. Gelei Deng, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**[An Investigation of Byzantine Threats in Multi-Robot Systems](https://personal.ntu.edu.sg/tianwei.zhang/paper/raid2021-1.pdf)**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021.
 
-1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
+1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**[Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps](https://ieeexplore.ieee.org/document/9575536)**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021.
 
-1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**Route Coverage Testing for Autonomous Vehicles via Map Modeling**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
+1. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, and Gang Wang, "**[Route Coverage Testing for Autonomous Vehicles via Map Modeling](https://ieeexplore.ieee.org/document/9560890)**." In *International Conference on Robotics and Automation (ICRA 2021)*, 2021.
 
 1. Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding,  <span style="color:blue">Yuan Zhou</span>, Yang Liu, "**[Privacy-Aware UAV Flights through Self-Configuring Motion Planning](https://ieeexplore.ieee.org/abstract/document/9197564)**." In *International Conference on Robotics and Automation (ICRA 2020)*, 2020: 1169-1175.
 
