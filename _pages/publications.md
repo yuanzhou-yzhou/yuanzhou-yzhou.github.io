@@ -67,7 +67,7 @@ Name marked with * implies that I am the corresponding author.
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Unmanned Autonomous Systems (Robots and Autonomous Vehicles)</u>*
+*<u>Unmanned Autonomous Systems (e.g., Robots and Autonomous Vehicles)</u>*
 
 1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu", **[Criticality-Guided Deep Reinforcement Learning for Motion Planning](https://yuanzhou-yzhou.github.io/files/DRL_for_motion_planning.pdf)**." In *2021 China Automation Congress (CAC 2021)*, 2021
 
