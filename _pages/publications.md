@@ -14,7 +14,7 @@ Name marked with * implies that I am the corresponding author.
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Robotics and Autonomous Vehicles</u>*
+*<u>Unmanned Autonomous Systems (e.g., Robots and Autonomous Vehicles)</u>*
 
 1. Kun Cheng, <span style="color:blue">Yuan Zhou</span>, Bihuan Chen, Rui Wang, Yuebin Bai, Yang Liu, "**[Guardauto: A Decentralized Runtime Protection System for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9172045)**." In *IEEE Transactions on Computers*, 2020. (IF: 2.663, Q2)
 
@@ -67,7 +67,7 @@ Name marked with * implies that I am the corresponding author.
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Robotics and Autonomous Vehicles</u>*
+*<u>Unmanned Autonomous Systems (Robots and Autonomous Vehicles)</u>*
 
 1. Linling Xu, Fenghua Wu, <span style="color:blue">Yuan Zhou\*</span>, Hesuan Hu, Zuohua Ding, Yang Liu", **[Criticality-Guided Deep Reinforcement Learning for Motion Planning](https://yuanzhou-yzhou.github.io/files/DRL_for_motion_planning.pdf)**." In *2021 China Automation Congress (CAC 2021)*, 2021
 
