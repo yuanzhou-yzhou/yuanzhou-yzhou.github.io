@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click Here for the PDF File](http://yuanzhou-yzhou.github.io/files/CV-Zhou.pdf)
+[//]: # ([Click Here for the PDF File]&#40;http://yuanzhou-yzhou.github.io/files/CV-Zhou.pdf&#41;)
 
 {% include base_path %}
 
