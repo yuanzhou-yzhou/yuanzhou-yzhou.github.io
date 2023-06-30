@@ -30,13 +30,13 @@ Letters (RA-L), vol. 8, no. 3, pp. 1603 - 1610, 2023. (IF: 4.322, Q2)
 3. Wenbing Tang, <span style="color:blue">Yuan Zhou*</span>, Tianwei Zhang, Yang Liu, Jing Liu, Zuohua Ding, "**[Cooperative collision avoidance in multirobot systems using fuzzy rules
 and velocity obstacles](https://www.cambridge.org/core/journals/robotica/article/abs/cooperative-collision-avoidance-in-multirobot-systems-using-fuzzy-rules-and-velocity-obstacles/1F047875C40CCEF628BEA12B207B0B1D)**," Robotica, no. 41, no. 2, pp. 668–689, Feb. 2023. (IF: 2.406, Q4)
 
-4. Xingshuo Han, <span style="color:blue">Yuan Zhou*</span>, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang, "**[ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9690769)**,” IEEE Transactions on Intelligent Transportation Systems (TITS), vol. 24, no. 1, pp. 1039–1051, Jan. 2023. (IF: 9.551, Q1)
+4. Xingshuo Han, <span style="color:blue">Yuan Zhou</span>, Kangjie Chen, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang, "**[ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9690769)**,” IEEE Transactions on Intelligent Transportation Systems (TITS), vol. 24, no. 1, pp. 1039–1051, Jan. 2023. (IF: 9.551, Q1)
 
-5. Yixing Luo, <span style="color:blue">Yuan Zhou*</span>, Haiyan Zhao, Zhi Jin, Tianwei Zhang, Yang Liu,
+5. Yixing Luo, <span style="color:blue">Yuan Zhou</span>, Haiyan Zhao, Zhi Jin, Tianwei Zhang, Yang Liu,
 Danny Barthaud, Yijun Yu. "**[Online Adaptation for Autonomous Unmanned
 Systems Driven by Requirements Satisfaction Model](https://link.springer.com/article/10.1007/s10270-022-00981-7)**," Software and Systems
 Modeling (SoSyM), vol 21, pp. 1295–1319, 2022 (IF: 2.211, Q3).
-6. Zhaoxuan Wang, Yang Li, Shihao Wu, Yuan Zhou, Libin Yang, Yuan Xu, Tianwei Zhang, Quan Pan. "**[A survey on cybersecurity attacks and defenses for unmanned aerial systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762123000498)**," Journal of Systems Architecture, vol 38, Article No. 102870, May 2023.
+6. Zhaoxuan Wang, Yang Li, Shihao Wu,  <span style="color:blue">Yuan Zhou</span>, Libin Yang, Yuan Xu, Tianwei Zhang, Quan Pan. "**[A survey on cybersecurity attacks and defenses for unmanned aerial systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762123000498)**," Journal of Systems Architecture, vol 38, Article No. 102870, May 2023.
 
 7. Kun Cheng, <span style="color:blue">Yuan Zhou</span>, Bihuan Chen, Rui Wang, Yuebin Bai, Yang Liu, "**[Guardauto: A Decentralized Runtime Protection System for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9172045)**." In *IEEE Transactions on Computers*, 2020. (IF: 2.663, Q2)
 
@@ -97,7 +97,6 @@ Modeling (SoSyM), vol 21, pp. 1295–1319, 2022 (IF: 2.211, Q3).
 7. Gelei Deng, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Tianwei Zhang, and Yang Liu, "**[An Investigation of Byzantine Threats in Multi-Robot Systems](https://personal.ntu.edu.sg/tianwei.zhang/paper/raid2021-1.pdf)**." In *The 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 21)*, 2021. (CCF B)
 
 8. Xingshuo Han, Kangjie Chen,  <span style="color:blue">Yuan Zhou\*</span>, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang. "**[A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems](https://ieeexplore.ieee.org/document/9644710)**", IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp. 836–844, 2021. (CCF C)
-
    <span style="color:red">Most Innovative Paper Award</span>
 
 9. Yun Tang, <span style="color:blue">Yuan Zhou\*</span>, Yang Liu, Jun Sun, and Gang Wang, "**[Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps](https://ieeexplore.ieee.org/document/9575536)**." In *2021 IEEE Intelligent Vehicles Symposium (IV21)*, 2021. 
