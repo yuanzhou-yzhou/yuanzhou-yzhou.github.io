@@ -15,6 +15,7 @@ the Master degree at 2015 from Zhejiang Sci-Tech Universitory, Hangzhou, China, 
 My research aims to provide safety and security (S&S) guarantees for Autonomous Unmanned Systems (AUSs, such as mobile robots, autonomous vehicles, and unmanned aerial vehicles) during their whole life cycles, from system design and system testing to run-time monitoring and self-adaptation.
 
 1. **S&S-By-Design Algorithms**. We focus on designing novel and efficient motion planning algorithms for AUSs to guarantee their safety and security in dynamic, complex, open, and unpredictable environments using various technologies, such as discrete event systems, mathematical programming, and deep learning.
+
    1. **Distributed motion planning of multi-Robot systems**. 
          To guarantee the safety, performance, and flexibility of a multi-robot system, we focus on distributed algorithm design for motion control of multi-robot systems. We are applying discrete event systems, supervisory control theory, model predictive control, and mathematical optimization to design fully distributed algorithms to avoid collision, deadlocks (especially higher-order deadlocks),  as well as guarantee computation efficiency.
    2. **Robust motion  planning against robot failures and attacks**. 
@@ -22,8 +23,9 @@ My research aims to provide safety and security (S&S) guarantees for Autonomous 
    3. **AI-aided motion planning**. 
   In case of obstacle-clustered and/or dynamic environments, real-time motion planning is usually time-consuming. AI technologies leverage an offline learning procedure to offload online computation. However, its predictability and interpretability is still a challenge, so we cannot apply AI technologies directly to control safety-critical systems. Hence, it is significant to investigate what and how AI technologies can give aid to traditional motion planning methods. Detailedly, we are exploring the integration of AI technologies and traditional motion methods.
    4. **Requirement-adaptation motion planing**.
-  Due to its open and complex environments, a multi-robot system may suffer from conflicts among different motion requirements. Hence, a multi-robot system needs to adapt its requirements during its motion. We focus on the following tasks along this direction: (1) Deep understanding of different requirements (e.g., safety, security, performance, privacy, ethic, regulations) for a multi-robot systems; (2) Detection of conflict requirements during robot motion; and (3) Self-adaptation for conflict requirements. 
+  Due to its open and complex environments, a multi-robot system may suffer from conflicts among different motion requirements. Hence, a multi-robot system needs to adapt its requirements during its motion. We focus on the following tasks along this direction: (1) Deep understanding of different requirements (e.g., safety, security, performance, privacy, ethic, regulations) for a multi-robot systems; (2) Detection of conflict requirements during robot motion; and (3) Self-adaptation for conflict requirements.
    
+
 2. **Safety and Security Testing**.
 Using AI testing, traditional software testing, and control theory, we focus on efficient methods to generate critical scenarios and evaluate the safety and security of AUSs.
    1. **Autonomous Driving System (ADS) Testing Framework**. To facilitate ADS testing, we focus on the design of a unified testing framework, which includes: (1) A language to describe scenarios, (2) A langugate to describe test specifications, and (3) Algorithms to generate critical scenarios.
@@ -31,6 +33,7 @@ Using AI testing, traditional software testing, and control theory, we focus on 
    3. **Guided ADS Testing**. We focus on designing different metrics to guide the generation of diverse and critical scenarios.  For example, we have proposed a behavior-guided fuzzing technique to explore the different behaviors of the autonomous vehicle, where an efficient unsupervised model is proposed to characterize the behavior of the autonomous vehicle.
    4. **Security Testing of ADS**. We investigate potential attacks and threats against AUSs. (1) We investigate the potential threats in ROS and ROS2, which are widely used in industrial robots. (2) We investigate potential physical-world backdoor attacks against different modules in an ADS, such as the lane detection module.
    
+
 3. **Safe and Secure Operation**. After AUSs are deployed in the real world, we investigate real-time anomaly detection and mitigation using deep learning technologies with the MAPE (Monitor-Analyse-Plan-Execute) framework.
 
 Contact
