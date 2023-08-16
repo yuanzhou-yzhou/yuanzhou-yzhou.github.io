@@ -87,8 +87,8 @@ Modeling (SoSyM), vol 21, pp. 1295–1319, 2022 (IF: 2.211, Q3).
 [//]: # (*<u>Unmanned Autonomous Systems &#40;e.g., Robots and Autonomous Vehicles&#41;</u>*)
 
 
-<!-- 1. Xingshuo Han, Yutong Wu, Qingjie Zhang, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang, "**Backdooring Multi-Modal Learning**," IEEE Symposium on Security and Privacy 2024 (S&P), 2023. (CCF A)-->
-1. Mingfei Cheng,  <span style="color:blue">Yuan Zhou\*</span>, Xiaofei Xie, "**BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems**,” The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2023. (CCF A)
+1. Xingshuo Han, Yutong Wu, Qingjie Zhang, <span style="color:blue">Yuan Zhou\*</span>, Yuan Xu, Han Qiu, Guowen Xu, Tianwei Zhang, "**Backdooring Multi-Modal Learning**," IEEE Symposium on Security and Privacy 2024 (S&P), 2023. (CCF A)
+2. Mingfei Cheng,  <span style="color:blue">Yuan Zhou\*</span>, Xiaofei Xie, "**BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems**,” The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2023. (CCF A)
 3. <span style="color:blue">Yuan Zhou</span>, Gengjie Lin, Yun Tang, Kairui Yang, Wei Jing, Ping Zhang, Junbo Chen, Liang Gong, Yang Liu, "**[FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing](https://arxiv.org/abs/2301.12738)**," 2023 IEEE International Conference on Robotics and Automation (ICRA 2023), 2023. (CCF B, Top-Tier Conference in Robotics)
 4. Gelei Deng, Guowen Xu, <span style="color:blue">Yuan Zhou</span>, Tianwei Zhang, Yang Liu, "**[On the (In)Security of Secure ROS2](https://dl.acm.org/doi/10.1145/3548606.3560681)**", ACM Conference on Computer and Communications Security (CCS), pp. 739–753, Nov 2022. (CCF A)
 5. Xingshuo Han, Guowen Xu, <span style="color:blue">Yuan Zhou*</span>, Xuehuan Yang, Jiwei Li, Tianwei Zhang, "**[Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving](https://dl.acm.org/doi/abs/10.1145/3503161.3548171)**", ACM International Conference on Multimedia (MM), pp. 2957–2968, Oct. 2022. (CCF A)
