@@ -17,8 +17,8 @@ Name marked with * implies that I am the corresponding author.
 
 [//]: # (*<u>Unmanned Autonomous Systems &#40;e.g., Robots and Autonomous Vehicles&#41;</u>*)
 
-1. Wenbing Tang, <span style="color:blue">Yuan Zhou*</span>, Yang Liu, Zuohua Ding, Jing Liu. "**[Robust Motion Planning for Multi-Robot Systems Against Position Deception Attacks](https://ieeexplore.ieee.org/abstract/document/10373093)**," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2157--2170.
-2. Wenbing Tang, Jing Liu, <span style="color:blue">Yuan Zhou</span>, Zuohua Ding. "**[Causality-Guided Counterfactual Debiasing for Anomaly Detection of Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/10304362)**," IEEE Transactions on Industrial Informatics.
+1. Wenbing Tang, <span style="color:blue">Yuan Zhou*</span>, Yang Liu, Zuohua Ding, Jing Liu. "**[Robust Motion Planning for Multi-Robot Systems Against Position Deception Attacks](https://ieeexplore.ieee.org/abstract/document/10373093)**," IEEE Transactions on Information Forensics and Security (TIFS), vol. 19, pp. 2157--2170, 2023.
+2. Wenbing Tang, Jing Liu, <span style="color:blue">Yuan Zhou</span>, Zuohua Ding. "**[Causality-Guided Counterfactual Debiasing for Anomaly Detection of Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/10304362)**," IEEE Transactions on Industrial Informatics (TII), 2023.
 
 3.  <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Gelei Deng, Kun Cheng, Shang-Wei Lin, Yang Liu,  and Zuohua Ding, "**[Distributed Motion Control for Multiple Mobile Robots Using Discrete-Event Systems and Model Predictive Control](https://ieeexplore.ieee.org/document/10292991)**," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2023.
 
