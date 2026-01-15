@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Professor at Zhejiang Sci-Tech University. Previously, I was a Research Fellow at Nanyang Technological University working with Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/) and a Research Scientist at Singapore Management University working with Prof. [Jun Sun](https://faculty.smu.edu.sg/profile/sun-jun-6816). 
+I am currently a Professor at Zhejiang Sci-Tech University. Previously, I was a Research Fellow at Nanyang Technological University working with Prof. [Yang LIU](https://www.ntu.edu.sg/home/yangliu/) and a Research Scientist at Singapore Management University working with Prof. [Jun SUN](https://faculty.smu.edu.sg/profile/sun-jun-6816). 
 I obtained my Ph.D. degree in 2019 from Nanyang Technological University, Singapore, under the supervision of Profs. [Hesuan Hu](https://web.xidian.edu.cn/hshu/), [Yang Liu](https://www.ntu.edu.sg/home/yangliu/), and [Shang-Wei Lin](https://www.ntu.edu.sg/home/shang-wei.lin/), and
 the Master's degree in 2015 from Zhejiang Sci-Tech University, Hangzhou, China, under the supervision of Prof. Zuohua Ding.
 
