@@ -12,7 +12,7 @@ I am currently a Professor at Zhejiang Sci-Tech University. Previously, I was a 
 I obtained my Ph.D. degree in 2019 from Nanyang Technological University, Singapore, under the supervision of Profs. [Hesuan Hu](https://web.xidian.edu.cn/hshu/), [Yang Liu](https://www.ntu.edu.sg/home/yangliu/), and [Shang-Wei Lin](https://www.ntu.edu.sg/home/shang-wei.lin/), and
 the Master's degree in 2015 from Zhejiang Sci-Tech University, Hangzhou, China, under the supervision of Prof. Zuohua Ding.
 
-My research aims to provide safety and security (S&S) guarantees for Autonomous Unmanned Systems (AUSs, such as mobile robots, autonomous vehicles, and unmanned aerial vehicles) during their whole life cycles, from system design and system testing to run-time monitoring and self-adaptation.
+My research aims to provide safety and security (S&S) guarantees for Autonomous Systems and Embodied Intelligence (AUSs, such as  robots, autonomous vehicles, and unmanned aerial vehicles) during their whole life cycles, from design and testing to run-time monitoring and self-adaptation.
 
 1. **S&S-By-Design Algorithms**. We focus on designing novel and efficient motion planning algorithms for AUSs to guarantee their safety and security in dynamic, complex, open, and unpredictable environments using various technologies, such as discrete event systems, mathematical programming, and deep learning.
 
@@ -45,8 +45,4 @@ Using AI testing, traditional software testing, and control theory, we focus on 
 
 Contact
 ======
-**Address**: N4-B2C-06, Cyber Security Lab, 
-School of Computer Science and Engineering, Nanyang Technological University,
-50 Nanyang Avenue, Singapore 639798
-
-**Email**: y.zhou AT ntu DOT edu DOT sg
+**Email**: yzhou027 AT e DOT ntu DOT edu DOT sg
