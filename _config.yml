@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yuan Zhou's Homepage"
 title_separator          : "-"
 name                     : &name "Yuan Zhou"
-description              : &description "Research Fellow at Nangyang Technolgoical University"
+description              : &description "Professor at Zhejiang Sci-Tech University"
 url                      : https://yuanzhou-yzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanzhou-yzhou/yuanzhou-yzhou.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuan Zhou"
   avatar           : "yzhou.png"
-  bio              : "Research Fellow at Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "Professor at Zhejiang Sci-Tech University"
+  location         : "China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ"
-  email            : "y.zhou@ntu.edu.sg"
+  email            : "yzhou027@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
