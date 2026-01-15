@@ -24,17 +24,6 @@ Education
 
 
 
-Work Experience
-======
-* Feb 2021 -- Present: Research Fellow, Nanyang Technological University
-  
-* Jul 2020 -- Feb 2021: Research Fellow, Singapore Management University
-
-* Aug 2019 -- Jun 2020: Research Fellow, Nanyang Technological University
- 
-* May 2015 -- Jul 2019: Research Assistant, Nanyang Technological University
-  
-
 
 Publications
 ======
